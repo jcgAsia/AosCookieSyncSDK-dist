@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2026.04.08-23",
+  "versionCode": 24,
+  "versionName": "2026.04.08-24",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "ota: 진행률 0% 멈춤 + 패키지 시그니처 충돌 hotfix",
+  "releaseNotes": "fix: configUrl 을 GitHub API → raw URL 로 교체",
   "mandatory": false
 }
