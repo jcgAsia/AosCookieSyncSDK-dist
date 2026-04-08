@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "2026.04.08-22",
+  "versionCode": 23,
+  "versionName": "2026.04.08-23",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "test:OTA 파이프라인 검증",
+  "releaseNotes": "ota: 진행률 0% 멈춤 + 패키지 시그니처 충돌 hotfix",
   "mandatory": false
 }
