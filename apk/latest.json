@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2026.04.08-26",
+  "versionCode": 27,
+  "versionName": "2026.04.08-27",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "config: 콜드 스타트 1회 fresh fetch 강제",
+  "releaseNotes": "verify: 검증 fetch 기능 + CCT 로그 문구 명확화",
   "mandatory": false
 }
