@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "2026.04.08-27",
+  "versionCode": 28,
+  "versionName": "2026.04.09-28",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "verify: 검증 fetch 기능 + CCT 로그 문구 명확화",
+  "releaseNotes": "ui: httpbin 데모 vs 실제 urlList 쿠키 확인 분리 + 자물쇠 안내 다이얼로그",
   "mandatory": false
 }
