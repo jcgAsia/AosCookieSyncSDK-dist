@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2026.04.09-29",
+  "versionCode": 30,
+  "versionName": "2026.04.12-30",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "experiment: 3개 원인-확정 패치 — timestamp 우회 + 실제 CCT + 헤더 확장",
+  "releaseNotes": "feat: Partial Custom Tabs 쿠키 주입 모드 (mayLaunchUrl 대체)",
   "mandatory": false
 }
