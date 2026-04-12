@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2026.04.12-30",
+  "versionCode": 31,
+  "versionName": "2026.04.12-31",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: Partial Custom Tabs 쿠키 주입 모드 (mayLaunchUrl 대체)",
+  "releaseNotes": "ui: 홈 SDK 상태 카드에 버전 + 빌드 시각 표시",
   "mandatory": false
 }
