@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2026.04.12-32",
+  "versionCode": 33,
+  "versionName": "2026.04.12-33",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs+ui: 프로젝트 현황 보고서 + 앱 내 사용 가이드 뷰어",
+  "releaseNotes": "feat: Link Decoration — URL 에 추적 파라미터 자동 첨부 (Phase 2)",
   "mandatory": false
 }
