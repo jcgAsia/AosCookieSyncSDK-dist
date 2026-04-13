@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "2026.04.12-34",
+  "versionCode": 35,
+  "versionName": "2026.04.13-35",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "server: setcookie.php + 배포 가이드 (수석님 서버 적용용)",
+  "releaseNotes": "server: 원커맨드 배포/롤백/검증 스크립트",
   "mandatory": false
 }
