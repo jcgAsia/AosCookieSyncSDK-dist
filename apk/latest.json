@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "2026.04.19-37",
+  "versionCode": 38,
+  "versionName": "2026.04.19-38",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: Partial CCT 스텔스 모드 — 사용자 인지 최소화",
+  "releaseNotes": "docs: 가이드에서 인물 호칭 제거",
   "mandatory": false
 }
