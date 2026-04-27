@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "2026.04.27-40",
+  "versionCode": 41,
+  "versionName": "2026.04.27-41",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: Partial CCT 폐기 검토 라운드 — NoState Prefetch 안 + Reviewer NEEDS_REVISION 기록",
+  "releaseNotes": "feat: PREFETCH_ONLY PoC — Activity-less mayLaunchUrl 흐름 + 샘플앱 검증 버튼",
   "mandatory": false
 }
