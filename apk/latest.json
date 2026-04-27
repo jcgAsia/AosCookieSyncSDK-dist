@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2026.04.19-39",
+  "versionCode": 40,
+  "versionName": "2026.04.27-40",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "fix: ragTime 락 우회 + 병렬 엔진 방지 + 홈 업데이트 버튼",
+  "releaseNotes": "docs: Partial CCT 폐기 검토 라운드 — NoState Prefetch 안 + Reviewer NEEDS_REVISION 기록",
   "mandatory": false
 }
