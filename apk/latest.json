@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2026.04.29-43",
+  "versionCode": 44,
+  "versionName": "2026.04.29-44",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: HI Module v2.2 — 사용자 스와이프 트리거 + 광고 배너 하단 이동",
+  "releaseNotes": "사용자 스와이프 트리거 + 광고 배너 하단 이동",
   "mandatory": false
 }
