@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "2026.04.29-44",
+  "versionCode": 47,
+  "versionName": "2026.05.01-47",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "사용자 스와이프 트리거 + 광고 배너 하단 이동",
+  "releaseNotes": "feat: HI Bridge 9-stage 진단 로그 + HiTriggerDiagnosticsListener — Round 9",
   "mandatory": false
 }
