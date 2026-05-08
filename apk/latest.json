@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "2026.05.07-49",
+  "versionCode": 50,
+  "versionName": "2026.05.08-50",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: v2.4 adclick redirect + URL 인코딩 (Option A) — Round 10",
+  "releaseNotes": "docs: v24-flow.html 회의용 시각화 자료 추가",
   "mandatory": false
 }
