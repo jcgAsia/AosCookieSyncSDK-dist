@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "2026.05.10-51",
+  "versionCode": 52,
+  "versionName": "2026.05.10-52",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: 광고매핑 — CookieManager 폴링 모델 (Option B) — Round 12",
+  "releaseNotes": "release: SDK v2.5.0 AAR + INTEGRATION + CHANGELOG — Round 13",
   "mandatory": false
 }
