@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "2026.05.08-50",
+  "versionCode": 51,
+  "versionName": "2026.05.10-51",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: v24-flow.html 회의용 시각화 자료 추가",
+  "releaseNotes": "feat: 광고매핑 — CookieManager 폴링 모델 (Option B) — Round 12",
   "mandatory": false
 }
