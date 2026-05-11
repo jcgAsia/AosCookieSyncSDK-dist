@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "2026.05.10-52",
+  "versionCode": 53,
+  "versionName": "2026.05.11-53",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: SDK v2.5.0 AAR + INTEGRATION + CHANGELOG — Round 13",
+  "releaseNotes": "release: SDK v2.5.0 배포 패키지 추가 (AAR + INTEGRATION + CHANGELOG + ProGuard)",
   "mandatory": false
 }
