@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "2026.05.11-54",
+  "versionCode": 55,
+  "versionName": "2026.05.12-55",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: SDK v2.5.0 산출물 보강 — 체크리스트 + 시각자료 + sha256 + README",
+  "releaseNotes": "test: Round 13 e2e 광고매핑 검증 증거 보존 — hmall → agoda 광고 교체 확인",
   "mandatory": false
 }
