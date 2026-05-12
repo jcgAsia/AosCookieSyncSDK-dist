@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "2026.05.12-61",
+  "versionCode": 62,
+  "versionName": "2026.05.12-62",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: 가이드 초기화 sample URL 실제값 교체 — Option A",
+  "releaseNotes": "chore: 중복 -final suffix 파일 제거",
   "mandatory": false
 }
