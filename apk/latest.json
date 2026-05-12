@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "2026.05.12-56",
+  "versionCode": 57,
+  "versionName": "2026.05.12-57",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: mapping-editor v2.5 신규 필드 3종 추가 — pullbackBaseUrl / mappingCookieDomain / adMapping",
+  "releaseNotes": "docs: GG-SDK Integration Guide HTML 추가 — GitBook 풍 디자인",
   "mandatory": false
 }
