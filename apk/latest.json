@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "2026.05.12-64",
+  "versionCode": 65,
+  "versionName": "2026.05.12-65",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat(mapping-editor): URL 우선순위 SEQ 필드 + 위/아래 이동 버튼",
+  "releaseNotes": "feat: mapping-editor UI 2024-2026 modern 리디자인",
   "mandatory": false
 }
