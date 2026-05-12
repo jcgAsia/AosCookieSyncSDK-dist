@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "2026.05.12-60",
+  "versionCode": 61,
+  "versionName": "2026.05.12-61",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: Integration Guide PDF 추가 — 인쇄/오프라인 배포용",
+  "releaseNotes": "docs: 가이드 초기화 sample URL 실제값 교체 — Option A",
   "mandatory": false
 }
