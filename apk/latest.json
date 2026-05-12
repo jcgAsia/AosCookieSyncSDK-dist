@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "2026.05.12-59",
+  "versionCode": 60,
+  "versionName": "2026.05.12-60",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: 광고매핑 v2.5 이번 라운드 활성화 — 호출 시점 가이드 추가",
+  "releaseNotes": "docs: Integration Guide PDF 추가 — 인쇄/오프라인 배포용",
   "mandatory": false
 }
