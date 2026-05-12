@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "2026.05.12-57",
+  "versionCode": 58,
+  "versionName": "2026.05.12-58",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: GG-SDK Integration Guide HTML 추가 — GitBook 풍 디자인",
+  "releaseNotes": "docs: HTML 가이드 사용자 피드백 4건 반영",
   "mandatory": false
 }
