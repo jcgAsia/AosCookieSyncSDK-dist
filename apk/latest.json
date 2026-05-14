@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "2026.05.12-66",
+  "versionCode": 67,
+  "versionName": "2026.05.14-67",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: 외주 배포용 3-파일 AAR ZIP 추가 (gg-sdk-2.5.0-aar.zip)",
+  "releaseNotes": "style(mapping-editor): 다크모드 가독성 개선 — hint amber + muted 톤 상향",
   "mandatory": false
 }
