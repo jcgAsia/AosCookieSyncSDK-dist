@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "2026.05.14-67",
+  "versionCode": 68,
+  "versionName": "2026.06.09-68",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "style(mapping-editor): 다크모드 가독성 개선 — hint amber + muted 톤 상향",
+  "releaseNotes": "release: GG-SDK 2.5.2 — 설정 동적 반영 + 외주 패키지 + 테스트앱 OTA",
   "mandatory": false
 }
