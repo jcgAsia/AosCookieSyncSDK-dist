@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "2026.06.09-68",
+  "versionCode": 69,
+  "versionName": "2026.06.11-69",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: GG-SDK 2.5.2 — 설정 동적 반영 + 외주 패키지 + 테스트앱 OTA",
+  "releaseNotes": "feat(sdk): GG-SDK 2.6.0 — 스와이프 단일 트리거 일원화 + urlList{url,id} 단일소스",
   "mandatory": false
 }
