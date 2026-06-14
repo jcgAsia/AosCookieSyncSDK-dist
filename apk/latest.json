@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "2026.06.13-71",
+  "versionCode": 72,
+  "versionName": "2026.06.14-72",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat: GGSDK 설정 호스팅 서버(ggsdk.centras.ai) 코드 및 운영 가이드",
+  "releaseNotes": "ci: gg-sdk AAR 빌드·업로드 step 추가 (외주 패키지용)",
   "mandatory": false
 }
