@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "2026.06.15-74",
+  "versionCode": 75,
+  "versionName": "2026.06.15-75",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: GG-SDK 2.6.0 외주 패키지 정합성 수정 (최신 가이드 안내·연락처·진단 stage·zip 목록)",
+  "releaseNotes": "feat(server): IP 기반 test/live 설정 분기 (serve.php REMOTE_ADDR + ip_allow.txt, sync test 파일 동기화)",
   "mandatory": false
 }
