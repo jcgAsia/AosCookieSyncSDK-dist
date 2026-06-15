@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "2026.06.15-75",
+  "versionCode": 76,
+  "versionName": "2026.06.15-76",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat(server): IP 기반 test/live 설정 분기 (serve.php REMOTE_ADDR + ip_allow.txt, sync test 파일 동기화)",
+  "releaseNotes": "fix(server): IP분기 test 소스를 aos_mapping_aos000.xml로 정합 (에디터 aos000 PID) + aos000 직접노출 404 차단",
   "mandatory": false
 }
