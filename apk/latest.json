@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "2026.06.15-76",
+  "versionCode": 77,
+  "versionName": "2026.06.16-77",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "fix(server): IP분기 test 소스를 aos_mapping_aos000.xml로 정합 (에디터 aos000 PID) + aos000 직접노출 404 차단",
+  "releaseNotes": "feat(sdk): GG-SDK 2.6.1 — 배너 클릭 외부광고 시스템브라우저 위임 + R8 난독화(부분 keep)",
   "mandatory": false
 }
