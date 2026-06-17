@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "2026.06.17-80",
+  "versionCode": 81,
+  "versionName": "2026.06.17-81",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: 2.6.1 외주 distribution.zip 슬림화 — 내부문서 제외 4파일(aar/sha256/guide/proguard)",
+  "releaseNotes": "release: 2.6.1 외부 공유용 vendor.zip(4파일) 분리 — distribution.zip(8파일)은 내부 관리용 보존",
   "mandatory": false
 }
