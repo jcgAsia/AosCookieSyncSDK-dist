@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "2026.06.17-78",
+  "versionCode": 79,
+  "versionName": "2026.06.17-79",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "fix(sdk): 2.6.1 배너클릭 확대/짤림 회귀 수정 — installWindowOpenBridge 제거",
+  "releaseNotes": "release: GG-SDK 2.6.1 외주 패키지 — 배너클릭 위임/확대짤림 회귀수정 + R8 난독화",
   "mandatory": false
 }
