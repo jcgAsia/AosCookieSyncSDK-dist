@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "2026.06.17-79",
+  "versionCode": 80,
+  "versionName": "2026.06.17-80",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: GG-SDK 2.6.1 외주 패키지 — 배너클릭 위임/확대짤림 회귀수정 + R8 난독화",
+  "releaseNotes": "release: 2.6.1 외주 distribution.zip 슬림화 — 내부문서 제외 4파일(aar/sha256/guide/proguard)",
   "mandatory": false
 }
