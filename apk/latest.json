@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "2026.06.17-81",
+  "versionCode": 82,
+  "versionName": "2026.06.17-82",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "release: 2.6.1 외부 공유용 vendor.zip(4파일) 분리 — distribution.zip(8파일)은 내부 관리용 보존",
+  "releaseNotes": "docs: 외주용 guide_aos.html — 절대경로화 + AAR 단독 다운로드 + 고정 URL(sdk/guide_aos.html)",
   "mandatory": false
 }
