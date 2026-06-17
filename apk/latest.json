@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "2026.06.16-77",
+  "versionCode": 78,
+  "versionName": "2026.06.17-78",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "feat(sdk): GG-SDK 2.6.1 — 배너 클릭 외부광고 시스템브라우저 위임 + R8 난독화(부분 keep)",
+  "releaseNotes": "fix(sdk): 2.6.1 배너클릭 확대/짤림 회귀 수정 — installWindowOpenBridge 제거",
   "mandatory": false
 }
