@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "2026.06.17-82",
+  "versionCode": 83,
+  "versionName": "2026.06.18-83",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: 외주용 guide_aos.html — 절대경로화 + AAR 단독 다운로드 + 고정 URL(sdk/guide_aos.html)",
+  "releaseNotes": "docs: 외주 공개용 guide_aos.html 교정 — 스와이프/광고 노출 메커니즘 제거, 순수 AAR 통합/빌드 내용만",
   "mandatory": false
 }
