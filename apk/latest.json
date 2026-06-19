@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "2026.06.18-83",
+  "versionCode": 84,
+  "versionName": "2026.06.19-84",
   "apkUrl": "https://raw.githubusercontent.com/jcgAsia/AosCookieSyncSDK-dist/main/apk/sample-app-debug.apk",
-  "releaseNotes": "docs: 외주 공개용 guide_aos.html 교정 — 스와이프/광고 노출 메커니즘 제거, 순수 AAR 통합/빌드 내용만",
+  "releaseNotes": "docs: 가이드 configUrl을 실제 동작 URL(aos_mapping.xml)로 정정 — aos_config(은폐명)는 서버 실데이터 없어 8byte 빈응답",
   "mandatory": false
 }
